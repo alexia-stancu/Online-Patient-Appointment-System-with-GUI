@@ -1,2 +1,2 @@
 # Online-Patient-Appointment-System-with-GUI
-Online Patient Scheduling System | Python, Tkinter, SQLite, SMTP | GUI Development, Secure Login, Real-Time Schedule Management, Automated Notifications
+I designed and implemented an online patient scheduling system with a graphical user interface using Python and Tkinter. This system enables secure patient login, medical appointment booking, and real-time viewing of doctor availability. I incorporated automated email notifications for confirmations and reminders using SMTP and utilized SQLite for secure data storage and efficient schedule management. As a result, this system improved efficiency and accessibility for patients and medical staff by providing a seamless and user-friendly scheduling experience.
